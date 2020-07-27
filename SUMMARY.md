@@ -1,28 +1,26 @@
-# The Rust Programming Language
+# Yr Iaith Rhaglennu Rust
 
-[The Rust Programming Language](title-page.md)
-[Foreword](foreword.md)
-[Introduction](ch00-00-introduction.md)
+[Yr Iaith Rhaglennu Rust](title-page.md) [Rhagair](foreword.md) [Cyflwyniad](ch00-00-introduction.md)
 
-## Getting started
+## Cychwyn arni
 
-- [Getting Started](ch01-00-getting-started.md)
-    - [Installation](ch01-01-installation.md)
-    - [Hello, World!](ch01-02-hello-world.md)
-    - [Hello, Cargo!](ch01-03-hello-cargo.md)
+- [Cychwyn Arni](ch01-00-getting-started.md)
+    - [Gosod](ch01-01-installation.md)
+    - [Helô, Byd!](ch01-02-hello-world.md)
+    - [Helô, Cargo!](ch01-03-hello-cargo.md)
 
-- [Programming a Guessing Game](ch02-00-guessing-game-tutorial.md)
+- [Rhaglennu Gêm Dyfalu](ch02-00-guessing-game-tutorial.md)
 
-- [Common Programming Concepts](ch03-00-common-programming-concepts.md)
-    - [Variables and Mutability](ch03-01-variables-and-mutability.md)
-    - [Data Types](ch03-02-data-types.md)
+- [Cysyniadau Rhaglennu Cyffredin](ch03-00-common-programming-concepts.md)
+    - [Newidynnau a Newidioldeb](ch03-01-variables-and-mutability.md)
+    - [Mathau Data](ch03-02-data-types.md)
     - [Functions](ch03-03-how-functions-work.md)
-    - [Comments](ch03-04-comments.md)
-    - [Control Flow](ch03-05-control-flow.md)
+    - [Sylwadau](ch03-04-comments.md)
+    - [Llif Rheoli](ch03-05-control-flow.md)
 
-- [Understanding Ownership](ch04-00-understanding-ownership.md)
-    - [What is Ownership?](ch04-01-what-is-ownership.md)
-    - [References and Borrowing](ch04-02-references-and-borrowing.md)
+- [Deall Perchnogaeth](ch04-00-understanding-ownership.md)
+    - [Beth yw Perchnogaeth?](ch04-01-what-is-ownership.md)
+    - [Cyfeirebau a Benthyg](ch04-02-references-and-borrowing.md)
     - [The Slice Type](ch04-03-slices.md)
 
 - [Using Structs to Structure Related Data](ch05-00-structs.md)
