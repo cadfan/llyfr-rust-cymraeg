@@ -1,9 +1,6 @@
 ## Appendix F: Translations of the Book
 
-For resources in languages other than English. Most are still in progress; see
-[the Translations label][label] to help or let us know about a new translation!
-
-[label]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
+For resources in languages other than English. Most are still in progress; see [the Translations label][label] to help or let us know about a new translation!
 
 - [Português](https://github.com/rust-br/rust-book-pt-br) (BR)
 - [Português](https://github.com/nunojesus/rust-book-pt-pt) (PT)
@@ -24,3 +21,5 @@ For resources in languages other than English. Most are still in progress; see
 - [Svenska](https://github.com/sebras/book)
 - [Farsi](https://github.com/pomokhtari/rust-book-fa)
 - [Deutsch](https://github.com/rust-lang-de/rustbook-de)
+
+[label]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
